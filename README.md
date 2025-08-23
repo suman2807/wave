@@ -37,7 +37,7 @@
    **Backend** (`/backend/.env`):
    ```env
    PORT=5001
-   MONGO_URI=mongodb://localhost:27017/streamify
+   MONGO_URI=mongodb://localhost:27017/wave
    JWT_SECRET_KEY=your_jwt_secret
    STREAM_API_KEY=your_stream_api_key
    STREAM_API_SECRET=your_stream_api_secret

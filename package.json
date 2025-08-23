@@ -7,7 +7,7 @@
     "start": "npm run start --prefix backend"
   },
   "keywords": [],
-  "author": "",
+  "author": "suman2807",
   "license": "ISC",
-  "description": ""
+  "description": "Wave - Real-time video calling and chat platform for language learners"
 }
