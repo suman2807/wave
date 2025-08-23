@@ -58,9 +58,6 @@
    npm run dev
    ```
 
-4. **Access the app**
-   - Frontend: http://localhost:5173
-   - Backend: http://localhost:5001
 
 ## 🛠️ Tech Stack
 
@@ -84,14 +81,3 @@
 │       ├── routes/        # API routes
 │       └── middleware/    # Auth middleware
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-**Made with ❤️ by Suman for the language learning community**
